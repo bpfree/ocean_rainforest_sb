@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# ignore data too large to host on GitHub repository (>100MB)
+data/a_raw_data/wc_ais_transect.gpkg
