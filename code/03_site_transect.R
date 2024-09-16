@@ -20,7 +20,7 @@ mariculture_site <- "sb"
 
 ## year directory
 year <- "2023"
-month <- "12"
+month <- "05"
 region <- "wc"
 
 ## coordinate reference system
